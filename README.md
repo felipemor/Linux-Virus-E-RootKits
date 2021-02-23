@@ -1,4 +1,4 @@
-# Linux-Virus-E-RootKits-Não meresponsabilizo pelo uso dos arquivos, os mesmos foram construidos para estudo.
+# Linux-Virus-E-RootKits-Não me responsabilizo pelo uso dos arquivos, os mesmos foram construidos para estudo.
 Breve descrição sobre virus em Linux
 
 Uma das questões em que muitas pessoas ainda tem conceitos com base em desinformação é
