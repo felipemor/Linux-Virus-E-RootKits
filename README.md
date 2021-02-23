@@ -216,9 +216,6 @@ duradouros.
 
 Até mais.
 
-Vídeo no YouTube: https://youtu.be/wGdFoOsykA0
-Link Artigo: http://www.mariomedeiros.eti.br/artigos/index.php?article48/virus-linux-e-rootkits
-Link Medium: https://medium.com/@m4r10m/virus-linux-e-rootkits-8036ce5a426b
 
 Algumas Referências e Links:
 https://www.diolinux.com.br/2014/02/por-que-linux-android-nao-pega-virus.html
@@ -230,6 +227,3 @@ http://www.chkrootkit.org/
 A referência sobre a infecção do ISO Linux Mint, que ocorreu em 20 de Fevereiro 2016, está em:
 https://pplware.sapo.pt/linux/atencao-linux-mint-pode-estar-infectado/
 
-Mario Medeiros
-
-2019-02-22 – 15:31h.
