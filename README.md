@@ -4,7 +4,7 @@ Breve descrição sobre virus em Linux
 Uma das questões em que muitas pessoas ainda tem conceitos com base em desinformação é
 sobre os vírus para Linux. Tentarei ser breve e rápido em descrever e desmitificar isso.
 
-Tem um sistema operacional (hahahahahahaha. Não ria, é feio!) de tela azul que atualmente
+Tem um sistema operacional de "tela azul" que atualmente
 deve estar na versão 10 ou 10.x, que é o mais suscetível a ser infectado por vírus. Esse sistema, é
 especialista nisso. Mas vamos discorrer um pouco sobre isso.
 
